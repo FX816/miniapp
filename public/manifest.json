@@ -1,0 +1,10 @@
+{
+  "name": "TG Market",
+  "short_name": "TG Market",
+  "description": "Премиальный маркетплейс в Telegram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#2AABEE",
+  "orientation": "portrait"
+}
